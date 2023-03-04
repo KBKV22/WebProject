@@ -1,1 +1,3 @@
 Duoc tao boi nhanvienB
+
+Day la noi dung do NHANVIENB them vao
